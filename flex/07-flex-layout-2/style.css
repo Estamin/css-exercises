@@ -52,7 +52,7 @@ a {
 
 .cards-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: row; /*totally useless, right ? */
   flex-wrap: wrap;
   margin: 20px;
 }
@@ -64,8 +64,4 @@ a {
   border-radius: 4px;
   padding: 16px;
   margin: 16px;
-}
-
-a {
-
 }
